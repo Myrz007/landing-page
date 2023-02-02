@@ -28,3 +28,15 @@ a {
     color: #F9FAF8;
     font-size: 24px;
 }
+
+.info-title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.text {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+}
