@@ -114,3 +114,11 @@ img,
     color: #F9FAF8;
     border-radius: 4px;
 }
+
+.hero-button {
+    border-style: none;
+}
+
+.action-button {
+    border-color: #F9FAF8;
+}
