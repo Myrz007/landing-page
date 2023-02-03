@@ -91,6 +91,9 @@ button {
 
 .footer {
     background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #footer-text {
