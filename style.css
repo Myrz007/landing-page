@@ -85,6 +85,11 @@ button {
     font-style: italic;
 }
 
+.author {
+    display: flex;
+    justify-content: flex-end;
+}
+
 .action {
     background-color: #3882F6;
     display: flex;
