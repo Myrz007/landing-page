@@ -107,3 +107,10 @@ button {
     color: #E5E7EB;
     font-size: 18px;
 }
+
+button,
+img,
+.action {
+    color: #F9FAF8;
+    border-radius: 4px;
+}
