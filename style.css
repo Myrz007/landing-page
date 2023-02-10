@@ -33,7 +33,6 @@ a {
 
 #hero-main {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
     padding: 4% 12%
 }
@@ -47,6 +46,16 @@ a {
 #second-text {
     color: #E5E7EB;
     font-size: 18px;
+}
+
+#hero-image {
+    background-color: #515151;
+    color: #F9FAF8;
+    min-width: 360px;
+    min-height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 button {
