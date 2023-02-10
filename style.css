@@ -33,6 +33,7 @@ a {
 
 #hero-main {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     padding: 4% 12%
 }
@@ -50,6 +51,10 @@ a {
 
 button {
     background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 4px;
+    width: 100px;
+    height: 30px;
 }
 
 #info {
@@ -99,6 +104,8 @@ button {
 
 #action {
     background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 4px;
     display: flex;
     justify-content: space-between;
     margin: 4% 12%;
@@ -115,13 +122,6 @@ footer {
 #footer-text {
     color: #E5E7EB;
     font-size: 18px;
-}
-
-button,
-img,
-#action {
-    color: #F9FAF8;
-    border-radius: 4px;
 }
 
 #hero-button {
