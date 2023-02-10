@@ -5,21 +5,21 @@ body {
     margin: 0;
 }
 
-.hero {
+#hero {
     background-color: #1F2937;
 }
 
-.header {
+header {
     display: flex;
     justify-content: space-between;
 }
 
-.logo {
+#logo {
     color: #F9FAF8;
     font-size: 24px;
 }
 
-.links {
+#links {
     display: flex;
     gap: 20px;
 }
@@ -30,18 +30,18 @@ a {
     text-decoration: none;
 }
 
-.hero-main {
+#hero-main {
     display: flex;
     justify-content: space-between;
 }
 
-.main-text {
+#main-text {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 800;
 }
 
-.second-text {
+#second-text {
     color: #E5E7EB;
     font-size: 18px;
 }
@@ -50,20 +50,20 @@ button {
     background-color: #3882F6;
 }
 
-.info {
+#info {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
-.info-title {
+#info-title {
     color: #1F2937;
     font-size: 36px;
     font-weight: 800;
 }
 
-.images {
+#images {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -76,28 +76,28 @@ button {
     justify-content: center;
 }
 
-.quote {
+#quote {
     background-color: #E5E7EB;
 }
 
-.text {
+#text {
     color: #1F2937;
     font-size: 36px;
     font-style: italic;
 }
 
-.author {
+#author {
     display: flex;
     justify-content: flex-end;
 }
 
-.action {
+#action {
     background-color: #3882F6;
     display: flex;
     justify-content: space-between;
 }
 
-.footer {
+footer {
     background-color: #1F2937;
     display: flex;
     align-items: center;
@@ -111,15 +111,15 @@ button {
 
 button,
 img,
-.action {
+#action {
     color: #F9FAF8;
     border-radius: 4px;
 }
 
-.hero-button {
+#hero-button {
     border-style: none;
 }
 
-.action-button {
+#action-button {
     border-color: #F9FAF8;
 }
