@@ -12,6 +12,7 @@ body {
 header {
     display: flex;
     justify-content: space-between;
+    padding: 0 12%;
 }
 
 #logo {
@@ -33,6 +34,7 @@ a {
 #hero-main {
     display: flex;
     justify-content: space-between;
+    padding: 4% 12%
 }
 
 #main-text {
@@ -61,6 +63,7 @@ button {
     color: #1F2937;
     font-size: 36px;
     font-weight: 800;
+    padding: 2% 0;
 }
 
 #images {
@@ -68,6 +71,8 @@ button {
     flex-wrap: wrap;
     justify-content: space-around;
     gap: 20px;
+    padding: 4% 12%;
+    margin-bottom: 4%;
 }
 
 .image {
@@ -78,6 +83,7 @@ button {
 
 #quote {
     background-color: #E5E7EB;
+    padding: 4% 16%;
 }
 
 #text {
@@ -95,6 +101,8 @@ button {
     background-color: #3882F6;
     display: flex;
     justify-content: space-between;
+    margin: 4% 12%;
+    padding: 2% 4%;
 }
 
 footer {
